@@ -1,0 +1,94 @@
+/* body{
+    background-image: linear-gradient( black, gray);
+    background-attachment: fixed;
+    padding-top: 150px;
+}
+#lead{
+    text-align: center;
+    border: solid white 3px;
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+li{
+    border: 1px solid black;
+    padding: 5px;
+    list-style-type: none;
+    background-color: white;
+    color: black;
+}
+.take{
+    background-color: deepskyblue;
+} */
+/* 
+
+
+#heavy{
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+
+}
+#item1{
+    border: solid 1px white;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+
+}
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+#item2{
+    border: solid 1px white;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+
+
+}
+#item3{
+    border: solid 1px white;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+
+} */
+
+
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+#yap{
+    border: solid 1px black;
+    padding: 15px;
+    margin: 25px;
+}
+h1{
+    padding: 15px;
+    margin: 15px;
+    color: lightcoral;    
+}
+p{
+    margin: 15px;
+    padding: 15px;
+    color: blue;
+}
+button{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    outline-color: blue;
+}
+button :hover{
+    color: brown;
+    background-color: chartreuse;
+}
